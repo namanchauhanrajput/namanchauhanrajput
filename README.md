@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img alt="hand"  width="30" src="https://raw.githubusercontent.com/ishitaraina1807/ishitaraina1807/refs/heads/main/Hi.gif">, I'm Naman Chauhan</h1>
+<h1 align="center">Hi <img alt="hand"  width="30" src="https://raw.githubusercontent.com/ishitaraina1807/ishitaraina1807/refs/heads/main/Hi.gif"> , I'm Naman Chauhan</h1>
 <h3 align="center">I am a Full Stack Web Developer, currently pursuing my Computer Science Engineering.</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
