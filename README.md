@@ -1,3 +1,4 @@
+! [logo] (https://github.com/namanchauhanrajput/namanchauhanrajput/blob/main/Black%20and%20Blue%20Trendy%20Gaming%20Youtube%20Banner%20(1).png)
 <h1 align="center">Hi <img alt="hand"  width="30" src="https://raw.githubusercontent.com/ishitaraina1807/ishitaraina1807/refs/heads/main/Hi.gif"> , I'm Naman Chauhan</h1>
 <h3 align="center">I am a Full Stack Web Developer, currently pursuing my Computer Science Engineering.</h3>
 
