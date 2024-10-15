@@ -10,8 +10,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/namanchauhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="namanchauhan" height="30" width="40" /></a>
-<a href="https://fb.com/naman chauhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="naman chauhan" height="30" width="40" /></a>
+<a href=https://www.linkedin.com/in/naman-chauhan-6b8243252/ target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="namanchauhan" height="30" width="40" /></a>
+<a href=https://www.facebook.com/namanchauhan2005/ target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="naman chauhan" height="30" width="40" /></a>
 <a href="https://instagram.com/naman_chauhan_rajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="naman_chauhan_rajput" height="30" width="40" /></a>
 </p>
 
