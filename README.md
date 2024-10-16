@@ -14,15 +14,6 @@
 <a href=https://www.facebook.com/namanchauhan2005/ target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="naman chauhan" height="30" width="40" /></a>
 <a href="https://instagram.com/naman_chauhan_rajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="naman_chauhan_rajput" height="30" width="40" /></a>
 </p>
-<br>
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=namanchauhanrajput&show_icons=true&locale=en&layout=compact" alt="namanchauhanrajput"/></p> <br>
-
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=namanchauhanrajput&show_icons=true&locale=en" alt="namanchauhanrajput" /></p> <br>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=namanchauhanrajput&" alt="namanchauhanrajput" /></p>
-
-
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -49,3 +40,12 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=FFCA28)&nbsp;
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js&logoColor=000000)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript&logoColor=007ACC)&nbsp;
+<br>
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=namanchauhanrajput&show_icons=true&locale=en&layout=compact" alt="namanchauhanrajput"/></p> <br>
+
+
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=namanchauhanrajput&show_icons=true&locale=en" alt="namanchauhanrajput" /></p> <br>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=namanchauhanrajput&" alt="namanchauhanrajput" /></p>
+
+
