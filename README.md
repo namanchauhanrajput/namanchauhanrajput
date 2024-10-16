@@ -42,9 +42,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript&logoColor=007ACC)&nbsp;
 <br>
 
-
-
-  <p align="center" ></p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=namanchauhanrajput&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=false" height="150" alt="languages graph"/></p>
+<p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=namanchauhanrajput&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=false" height="150" alt="languages graph"/></p>
 <p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=namanchauhanrajput&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=namanchauhanrajput&theme=chartreuse-dark"></p>
 
