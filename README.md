@@ -53,5 +53,9 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=namanchauhanrajput&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&themechartreuse-dark=false" height="150" alt="languages graph"  />
 </div>
-#
+
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=namanchauhanrajput&show_icons=true&locale=en&layout=compact" alt="namanchauhanrajput" /></p>
+
 
